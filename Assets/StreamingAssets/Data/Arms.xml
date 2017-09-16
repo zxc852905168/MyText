@@ -1,0 +1,16 @@
+<Arms>
+  <arm id="qingBuBin" name="轻步兵" Food="5" Need="5" Life="2" Distance="1"  Speed="2" MAX="15" MIN="10" spirit="zhandouButton/bu"></arm>
+  <arm id="qingQiBin" name="轻骑兵" Food="3" Need="5" Life="2" Distance="1"  Speed="3" MAX="20" MIN="15" spirit="zhandouButton/骑"></arm>
+  <arm id="gongBin" name="弓兵" Food="5" Need="5" Life="1" Distance="0.6"  Speed="2" MAX="20" MIN="5" spirit="zhandouButton/弓"></arm>
+  <arm id="dunBin" name="盾兵" Food="5" Need="5" Life="4" Distance="1"  Speed="1" MAX="20" MIN="10" spirit="zhandouButton/盾"></arm>
+  <arm id="nuBin" name="弩兵" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+  <arm id="" name="" Food="" Need="" Life="" Distance=""  Speed="" MAX="" MIN="" spirit=""></arm>
+</Arms>

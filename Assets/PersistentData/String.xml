@@ -1,0 +1,48 @@
+<string>
+    <item name="appName">再世扶苏</item>
+    <item name="dd">水电费</item>
+
+    <item name="year">年</item>
+    <item name="month">月</item>
+    <item name="day">日</item>
+
+    
+    <item name="guanZhong">关中</item>
+    <item name="heNan">河南</item>
+    <item name="heBei">河北</item>
+    <item name="huaiHanYiNan">淮汉以南</item>
+    
+    <item name="duCheng">都城</item>
+    <item name="junZhi">郡治</item>
+    <item name="xianCheng">县城</item>
+    <item name="shanZhai" w="name::01" sex="0">山寨</item>
+    <item name="cunLou">村落</item>
+    <item name="yeWai">野外</item>
+   
+ 
+    <student name="5325035" w="name::01" sex="0" age="21" birth="1991-04-21"/>
+    <student name="5325036" w="name::02" sex="1" age="22" birth="1990-12-01"/>
+   
+  
+  
+    <item name="minZhong">闽中郡</item>
+    <item name="minZhong">闽中郡</item>
+    <item name="luJiang">庐江</item>
+    <item name="huiJi">会稽</item>
+    <item name="hengShan">衡山</item>
+    <item name="changSha">长沙</item>
+    <item name="zhang">鄣</item>
+    <item name="dongHai">东海</item>
+    <item name="nan">南</item>
+    <item name="qianZhong">黔中</item>
+    <item name="jiuJiang">九江</item>
+    <item name="siChuan">四川</item>
+    <item name="hanZhong">汉中</item>
+    <item name="ba">巴</item>
+    <item name="huaiYang">淮阳</item>
+    <item name="dang">砀</item>
+    <item name="nanYang">南阳</item>
+    <item name="sanChuan">三川</item>
+    <item name="xianYang">咸阳</item>
+ 
+</string>
